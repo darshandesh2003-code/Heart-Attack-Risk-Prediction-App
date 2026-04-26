@@ -2,7 +2,6 @@ import pickle
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 
 st.title('❤️Heart attack risk classification app')
